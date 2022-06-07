@@ -1,0 +1,6 @@
+# targets
+build/
+tmp/
+
+# dependecies
+node_modules/
